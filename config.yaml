@@ -1,0 +1,12 @@
+owm:
+  key: "secret"
+  units: "metrics"
+  city_id: 3037543
+mqtt:
+  host: "secret"
+  port: 0
+  client_id: "secret"
+  username: "secret"
+  password: "secret"
+  keep_alive: 120
+interval: 10
